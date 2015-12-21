@@ -1,0 +1,19 @@
+#########Sencha
+/build/
+/sass/example/
+
+#########Intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+#########Windows
+Thumbs.db
+Desktop.ini
+
+#########OS X
+.DS_Store
+
+/node_modules/
+/dist/
